@@ -5,3 +5,5 @@
 5. Compare your results between Sessa Empirical Estimator using K-Means, and Sessa Empirical Estimator using the clustering algorithm of your choice.
 
 Additional Task: Create a callable function in each step. Check if these callable function has the same result (and insights) with your Jupyter Notebook.
+
+wowzerz
